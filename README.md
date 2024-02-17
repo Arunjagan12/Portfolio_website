@@ -1,4 +1,4 @@
-# Portofolio_website
+# Portfolio_website
 <h1>Hello Guys!!</h1>
 <p>It is a simple portfolio website that lists my professional details.This webpage features my:</p>
 <ul>
